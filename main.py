@@ -74,4 +74,4 @@ def edit():
     
 
     return render_template("about.html") 
-app.run(debug =True,port=9000)
+# app.run(debug =True,port=9000)
